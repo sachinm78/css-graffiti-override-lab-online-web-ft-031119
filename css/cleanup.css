@@ -20,10 +20,10 @@
   display: none; 
 }
 
-body #wall .parent :last-child #tag-6 {
+body #wall .parent div:last-child #tag-6 {
   display: none; 
 }
 
-body #wall .parent :first-child > #tag-7.slick {
+body #wall .parent div:first-child > #tag-7.slick {
   display: none;
 }
